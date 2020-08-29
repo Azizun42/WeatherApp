@@ -11,7 +11,7 @@ export default function App() {
       <Text onPress={doIt}>This app from visual studio</Text>
       <StatusBar style="auto" />
     </View>
-  );
+  );  
 }
 
 const styles = StyleSheet.create({
